@@ -4,6 +4,12 @@
   <img src="https://your-image-url" alt="Contributing Image">
 </p> -->
 
+<p align="center">
+  <a href="https://github.com/your-gfgsc-rtu/A-to-Z-Top-MNCs-Salary/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/gfgsc-rtu/A-to-Z-Top-MNCs-Salary"></a>
+  <a href="https://github.com/your-gfgsc-rtu/A-to-Z-Top-MNCs-Salary/pulls"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/gfgsc-rtu/A-to-Z-Top-MNCs-Salary"></a>
+  <a href="https://github.com/your-gfgsc-rtu/A-to-Z-Top-MNCs-Salary/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/gfgsc-rtu/A-to-Z-Top-MNCs-Salary"></a>
+</p>
+
 Thank you for considering contributing to the list of top 100 multinational companies with high salary jobs! Your contributions are valuable in keeping the list up-to-date and comprehensive. To ensure a smooth and collaborative experience, please follow these guidelines when contributing:
 
 ## Adding a Company
