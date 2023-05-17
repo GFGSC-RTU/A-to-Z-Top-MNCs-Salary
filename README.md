@@ -1,7 +1,7 @@
 <h1 align="center">Top Multinational Companies with High Salary Jobs</h1>
 
 <p align="center">
-  <img src="https://github.com/GFGSC-RTU/A-to-Z-Top-MNCs-Salary/assets/75694208/f5a47a12-d1e7-4d13-b795-b761561416a7" height=450px alt="Project Image">
+  <img src="https://github.com/GFGSC-RTU/A-to-Z-Top-MNCs-Salary/assets/75694208/f5a47a12-d1e7-4d13-b795-b761561416a7" height=400px alt="Project Image">
 </p>
 
 <div align="center">
