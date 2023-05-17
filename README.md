@@ -10,7 +10,7 @@ The table provides a snapshot of the diverse range of industries and job roles a
 
 Feel free to explore the table to discover potential job roles and salary ranges offered by these renowned MNCs.
 
-
+<hr/>
 
 | Company Name          | Average Salary Range (INR)  | Job Roles                                   |
 |-----------------------|----------------------------|---------------------------------------------|
